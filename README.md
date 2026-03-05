@@ -42,16 +42,17 @@ Deep Learning Models
 Linux Environment
 
 📂 Repository Structure
+
 dlstreamer_project/
 │
 ├── models/                     # Deep learning models
 ├── scripts/                    # Python scripts for pipeline execution
 │
-├── Output.mp4                  # Output video with inference
 ├── video.mp4                   # Input video
+├── Output.mp4                  # Output video with inference
 │
 ├── DL_Streamer_Report.docx     # Detailed project report
-├── Dlstreamer_documentation.doc# Project documentation
+├── Dlstreamer_documentation.docx  # Project documentation
 │
 └── README.md                   # Project overview
 
