@@ -41,14 +41,16 @@ Deep Learning Models
 
 Linux Environment
 
-📂 Repository Structure
+## 📁 Project Structure
 
- hitesh8995-dlstreamer_project/
+```text
+hitesh8995-dlstreamer_project/
     ├── README.md
     ├── DL_Streamer_Report.docx
     └── scripts/
         ├── dlstreamer_multi.py
         └── dlstreamer_pipeline.py
+```
 
 
 ⚙️ Prerequisites
